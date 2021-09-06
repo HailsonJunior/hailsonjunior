@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
+<h2>Hello, I am Hailson Junior</h2>
 
-<!--
-**HailsonJunior/hailsonjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>  About Me!</h3>
 
-Here are some ideas to get you started:
+  🙋 Love DevOps culture, IaC, automation and coffee!
+  
+  💼 Working as a infrastructure analyst 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>⚙️ Stack</h3>
+
+  💻 Linux ● Docker ● Ansible ● Terraform 
+
+[![Hailson Junior GitHub Stats](https://github-readme-stats.vercel.app/api?username=hailsonjunior&show_icons=true)](https://github.com/hailsonjunior)
