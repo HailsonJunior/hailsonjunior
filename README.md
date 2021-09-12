@@ -9,6 +9,6 @@
 
 <h3>⚙️ Stack</h3>
 
-  💻 Linux ● Docker ● Ansible ● Terraform 
+  💻 Linux ● Ansible ● Docker ● Terraform 
 
 [![Hailson Junior GitHub Stats](https://github-readme-stats.vercel.app/api?username=hailsonjunior&show_icons=true)](https://github.com/hailsonjunior)
