@@ -5,7 +5,7 @@
 
   🙋 Love DevOps culture, IaC, automation and coffee!
   
-  💼 Working as a infrastructure analyst 
+  💼 Working as a DevOps analyst 
 
 <h3>⚙️ Stack</h3>
 
